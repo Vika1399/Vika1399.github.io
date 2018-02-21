@@ -1,0 +1,111 @@
+body{
+	margin: 0;
+	font-size: 18px;
+	background-color:#FF7F50 ;
+	font-family: Roboto;
+
+}
+h1{
+	font-size: 60px;
+}
+
+header{
+	padding-top: 40px;
+	padding-bottom: 22px;
+	background-color: #FF6347; 
+	color:#fff;
+
+}
+.pretitle{
+	padding-top: 40px;
+	font-size: 32px;
+	
+}
+.maintitle{
+ font-size: 48px;
+ font-weight: 700;
+ text-transform: uppercase;
+}
+.subtitle1{
+	margin-bottom: 0px;
+}
+.subtitle2{
+	margin-top: 8px;
+	padding-bottom: 40px;
+}
+.header-button{
+	width: 330px;
+	height: 50px;
+	box-shadow: 10px 17px 34px 6px rgba(128,0,0, 0.63);
+	border-radius: 50px;
+	background-color: #fff;
+	color:#FA8072;
+	font-size: 18px;
+	font-weight:700;
+}
+.my-comand-title{
+text-align: center;
+padding-top: 35px;
+text-transform: uppercase;
+color:#FFA07A;
+}
+.my-comand{
+	background-color:#E9967A;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.my-comand-block{
+	background-color: #fff;
+	padding-top:25px;
+	padding-bottom: 25px; 
+}
+.row{
+	margin: 0px;
+	padding-bottom: 50px;
+}
+.col-6{
+	margin-left: 16px;
+	margin-right: 0px;
+	padding-top: 50px;
+}
+.col-6-2{
+	margin-left: 5px;
+	padding-top: 50px;
+}
+.about-us{
+	text-align: justify;
+	color:	#DC143C ;
+	padding-top: 20px;
+	margin-right: 15px;
+}
+.description{
+	color: #B22222 ;
+	text-align: justify;
+	padding-top: 20px;
+	width: 520px;
+}
+.footer-button{
+	width: 330px;
+	height: 50px;
+	box-shadow: 18px 17px 34px 6px rgba(255, 0.1);
+	border-radius: 25px;
+	background-color: #fff;
+	color:#6495ED;
+	font-size: 18px;
+	font-weight: 700;
+	text-align: center;
+}
+.footer-cta{
+	font-weight: 700;
+	text-align: center;
+}
+.fcenter{
+	font-weight: 700;
+
+}
+.col-4{
+	padding-top: 85px;
+	padding-bottom: 85px;
+	text-align: center;
+	color: #8B0000;
+}
